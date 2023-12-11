@@ -1,3 +1,7 @@
+#include <stdio.h>
+
+int main() {
+
 int add(int a, int b) {
 <<<<<<< HEAD
            return a + b;
@@ -50,5 +54,6 @@ int mod(int a, int b) {
 		return 0;
 	}
 	return a % b;
+}
 }
 >>>>>>> 833025f92fc3f6b752a891c84db0c0af3cdd42ec
